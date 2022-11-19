@@ -43,4 +43,8 @@
 
 *Поиск в YouTube(Выдаст 5 ссылок)*
 
-![kb](screen/youtube.png)
+![youtube](screen/youtube.png)
+
+*Узнать информацию об IP*
+
+![infoip](screen/infoip.png)
