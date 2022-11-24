@@ -9,7 +9,7 @@
 **License:** Free
 
 [![PyPI](https://img.shields.io/pypi/v/folium?label=folium&logo=folium)](https://pypi.org/project/folium/)
-[![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&logo=aiogram)](https://pypi.org/project/aiogram/)
+[![PyPI](https://img.shields.io/pypi/v/aiogram?label=aiogram&logo=telegram&logoColor=aiogram)](https://pypi.org/project/aiogram/)
 [![PyPI](https://img.shields.io/pypi/v/requests?label=requests&logo=requests)](https://pypi.org/project/requests/)
 [![PyPI](https://img.shields.io/pypi/v/google?label=google&logo=google&logoColor=yellow)](https://pypi.org/project/google/)
 [![PyPI](https://img.shields.io/pypi/v/python-dotenv?label=python-dotenv&logo=python-dotenv)](https://pypi.org/project/python-dotenv/)
