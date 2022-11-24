@@ -13,7 +13,7 @@
 [![PyPI](https://img.shields.io/pypi/v/requests?label=requests&logo=requests)](https://pypi.org/project/requests/)
 [![PyPI](https://img.shields.io/pypi/v/google?label=google&logo=google&logoColor=yellow)](https://pypi.org/project/google/)
 [![PyPI](https://img.shields.io/pypi/v/python-dotenv?label=python-dotenv&logo=python-dotenv)](https://pypi.org/project/python-dotenv/)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=greem&logo=python)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aiogram?color=green&logo=python&logoColor=green)
 
 
 ### ToolsBot с функциями
