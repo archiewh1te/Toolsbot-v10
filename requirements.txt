@@ -3,3 +3,4 @@ aiogram==2.22.2
 requests==2.25.1
 folium==0.13.0
 google==3.0.0
+youtube-search-python==1.6.6 
