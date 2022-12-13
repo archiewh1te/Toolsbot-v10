@@ -20,7 +20,7 @@
 
 ![title](https://www.escanav.com/en/images/bot-removal-tool4-1.jpg)
 
-*Видео:*
+**Видео:**
 
 [![Watch the video](https://img.youtube.com/vi/j9j31tcdoP8/sddefault.jpg)](https://youtu.be/j9j31tcdoP8)
 
