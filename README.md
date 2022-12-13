@@ -20,6 +20,10 @@
 
 ![title](https://www.escanav.com/en/images/bot-removal-tool4-1.jpg)
 
+*Видео:*
+
+[![Watch the video](https://img.youtube.com/vi/j9j31tcdoP8/sddefault.jpg)](https://youtu.be/j9j31tcdoP8)
+
 **Описание:**
 
 Бот имеет 5 функций: Поиск в Google, Поиск в YouTube, может узнать погоду, показывает информацию об IP и может определить IP сайта.  
